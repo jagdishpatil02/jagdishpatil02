@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Folks
 
-My name is Jagdish Patil and I'm a FrontEnd Developer. I'm from India and currently working at [Infogain](https://www.infogain.com/).
+My name is Jagdish Patil and I'm a FrontEnd Developer. I'm from India and currently working at [Synechron](https://www.synechron.com/).
 
 Apart from Coding I create memes and write jokes related to tech and programming on [Twitter](https://twitter.com/jagdishpatil02).
 
