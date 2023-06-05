@@ -2,7 +2,7 @@
 
 "I am Jagdish Patil, a Front-End Developer from India."
 
-"When I'm not coding, I enjoy creating memes."
+"When I'm not engrossed in coding, I find delight in crafting memes and indulging in the world of cinema."
 
 ### Find me elsewhere 🌎
 
