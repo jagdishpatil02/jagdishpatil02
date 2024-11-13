@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Folks
 
-"I am Jagdish Patil, a Front-End Developer from India."
+"I am Jagdish Patil, a Software engineer from India."
 
 "When I'm not engrossed in coding, I find delight in crafting memes and indulging in the world of cinema."
 
